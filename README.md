@@ -1,6 +1,6 @@
 ### Hey! I'm Tony. 
 
-I care about rigorously-derived methods for taking good care of our planet 🌍.
+I care about rigorously-derived methods for learning about, and taking good care of, our planet 🌍  .
 
 I'm a geospatial software engineer at [Gaia GPS](https://www.gaiagps.com/map), where I'm working to build the best backcountry map for recreationists and professionals alike. 
 
