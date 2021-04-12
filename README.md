@@ -9,9 +9,9 @@ I hold a Ph.D. 🎓  in Ecology from the University of Washington, where I devel
 ### Ask me about: 
 * 🗺️ Geospatial software development in Python (and GDAL, and Mapbox, and QGIS, and PostGIS...)
 * 🛰️ Remote sensing for environmental analysis (mostly Planet Labs, Landsat, Sentinel)
-* 🌩️ Cloud-native data workflows 
-* ❓ Machine learning with heterogeneous environmental data
-* 🌿  Ecological responses to climate change 
+* 🌩️ Cloud-native data workflows (AWS ECS, Lambda, S3; COGs, STACs, and others.)
+* ❓ Machine learning with heterogeneous environmental data (Tensorflow, Scikit-learn)
+* 🌿  Ecological responses to climate change  
 * ⚖️  Policy-forward solutions to the climate crisis
 * ⛷️  Skiing/trail-running/recreating on U.S. Public Lands 
 
